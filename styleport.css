@@ -1,0 +1,33 @@
+
+body {background-image: url(./images/wp5318305-nerdy-desktop-wallpapers.jpg);
+    background-size:auto; }  
+    
+    #perfil {
+      border-radius: 100%;
+      position: fixed;
+      top: 100px;
+      left: 600px;
+      }
+    
+        .fonte-titulo { 
+      font-family: 'Arvo', serif;   
+      color: azure; 
+        }
+        .subtitulo {
+      color: #dcebca;
+      position: absolute;
+      top: 270px;
+      left: 320px;
+      
+    }
+        h1 {
+      line-height: 0px;
+      position:absolute;
+      top: 245px;
+      left: 530px;
+    }
+        h3 {
+      font-size: 20px;
+    }
+        
+   
