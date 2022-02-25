@@ -1,6 +1,6 @@
 
 body {
-  background-image: url(https://cdn3.f-cdn.com/contestentries/1489974/18545046/5cba2aba229c4_thumb900.jpg);
+  background-image: url(https://1.bp.blogspot.com/-ggcpW4giEmA/YQn9JyUSsiI/AAAAAAABE6c/dEJ9s1zCJ8ww_lSRTPUgCkdHaSaaWG1JACLcBGAsYHQ/s3000/Papel%2Bde%2BParede%2BPlaystation%2BBot%25C3%25B5es.jpg); background-size: 100%;
   }  
     
 #perfil {
@@ -24,9 +24,10 @@ body {
   font-family: 'Ubuntu Mono', monospace;
   color:#e9edc9;
   font-size: 22px;
+  font-weight: bol;
   position: absolute;
   text-align: center;
-  top: 68%; 
+  top: 73%; 
   left: 50%;
   transform: translate(-50%, -50%);
   }
@@ -82,6 +83,12 @@ ul {
   left: 50%;
   transform: translate(-50%, -50%);  
 }
+#linktrybe {
+  color: #718355;
+  text-decoration: none;
+  font-weight: bold;
+ }
+
 h1 {
   line-height: 0px;
   }
@@ -93,8 +100,13 @@ h3 {
 nav{
   width: 100%;
   position: fixed;
-  top:50px;
+  top: 0px;
+  left: 0px;
   text-align:center;
+  background-color:#001219;
+  padding: 1%;
+  z-index: 1;
+  
 }
 nav a{
   font-family: 'Oswald', sans-serif;
