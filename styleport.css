@@ -1,101 +1,71 @@
 
 body {
-  background-image: url(https://1.bp.blogspot.com/-ggcpW4giEmA/YQn9JyUSsiI/AAAAAAABE6c/dEJ9s1zCJ8ww_lSRTPUgCkdHaSaaWG1JACLcBGAsYHQ/s3000/Papel%2Bde%2BParede%2BPlaystation%2BBot%25C3%25B5es.jpg); background-size: 100%;
-  }  
-    
+  background-image: url(/portfolio/images/wp5318305-nerdy-desktop-wallpapers.jpg.jpg); background-size: auto;
+}
+
+.fontetitulo {
+color: #e9edc9;
+}
+
+.fontesubtitulo {
+color: #e9edc9;
+}
+h2 {
+  color: #e9edc9;
+}
+
 #perfil {
-  border-radius: 100%;
+  border-radius: 10px;
   position: absolute;
-  top: 50%; 
-  left: 50%;
-  transform: translate(-50%, -50%);
-  }
-#fonte-titulo { 
-  font-family: 'Arvo', serif;   
-  font-size: 30px;
-  color: azure; 
-  text-align: center;
+  top: 200px;
+  left: 40px;
+  
+}
+
+#posicaoyuri {
   position: absolute;
-  top: 28%; 
-  left: 50%;
-  transform: translate(-50%, -50%);
-  }
+  top:80px ;
+  left: 38px;
+  font-size: 45px;
+}
+h2 {
+  position: absolute;
+  font-size: 20px;
+  top: 140px;
+  left: 43px;
+}
 #subtitulo {
-  font-family: 'Ubuntu Mono', monospace;
-  color:#e9edc9;
-  font-size: 22px;
-  font-weight: bol;
   position: absolute;
-  text-align: center;
-  top: 73%; 
-  left: 50%;
-  transform: translate(-50%, -50%);
-  }
+  top: 180px;
+  left: 300px;
+  font-size: 18px;
+}
 #habil {
-  font-family: 'Arvo', serif;
-  font-size: 30px;
-  position: absolute;
+  position: relative;
+  top: 550px;;
   text-align: center;
-  top: 110%; 
-  left: 50%;
-  transform: translate(-50%, -50%);     
-  }
-ul {
-  font-family: 'Ubuntu Mono', monospace;
-  font-size: 30px;
-  list-style-type: none;
-  color: #e9edc9 ;
-  position: absolute;
-  text-align: center;
-  top: 132%; 
-  left: 48.5%;
-  transform: translate(-50%, -50%); 
-  }
-#ref {
-  font-family: 'Arvo', serif;
-  font-size: 30px;
-  position: absolute;
-  text-align: center;
-  top: 230%; 
-  left: 50%;
-  transform: translate(-50%, -50%);    
-  }
-#fotoref {
-  position: absolute;
-  text-align: center;
-  top: 260%; 
-  left: 50%;
-  transform: translate(-50%, -50%);  
+  font-size: 45px;
 }
-#sociais {
-  font-family: 'Arvo', serif;
-  font-size: 30px;
-  position: absolute;
+li {
+  position: relative;
+  top: 780px;
+  list-style: none;
+  left: -25px;
   text-align: center;
-  top: 310%; 
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
-#fotosoc {
-  position: absolute;
+#proj {
+  position: relative;
   text-align: center;
-  top: 330%; 
-  left: 50%;
-  transform: translate(-50%, -50%);  
-}
-#linktrybe {
-  color: #718355;
-  text-decoration: none;
-  font-weight: bold;
- }
+  font-size: 45px;
+  top: 950px;
 
-h1 {
-  line-height: 0px;
-  }
-h3 {
-  color: #e9edc9 
 }
-
+div {
+  position: fixed;
+  top:7px;
+  margin-left: 1270px;
+  z-index: 1;
+}
 
 nav{
   width: 100%;
@@ -103,7 +73,7 @@ nav{
   top: 0px;
   left: 0px;
   text-align:center;
-  background-color:#001219;
+  background-color:#212529;
   padding: 1%;
   z-index: 1;
   
