@@ -9,6 +9,9 @@ color: #e9edc9;
 
 .fontesubtitulo {
 color: #e9edc9;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+font-weight: bold;
 }
 h2 {
   color: #e9edc9;
@@ -66,6 +69,7 @@ div {
   margin-left: 1270px;
   z-index: 1;
 }
+
 
 nav{
   width: 100%;
