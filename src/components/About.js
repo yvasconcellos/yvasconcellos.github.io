@@ -30,8 +30,8 @@ function About() {
       <p
       className='p-12 italic text-center'
       >
-        Born and raised in Bahia since 1994. I'm currently a front end software engineer. I have a degree on Mechanical Engineering, but coding has become my preciooous (smeagle's voice) thing. 
-        Inventing and creating everytime and everywhere, I'm crazy about games since my first time with Nintendo Entertainment System and Marios Bros 3 (aka: best Mario game ever).
+        Born and raised in Bahia since 1994. {"I'm"} currently a front end software engineer. I have a degree on Mechanical Engineering, but coding has become my preciooous {"(smeagle's voice)"} thing. 
+        Inventing and creating everytime and everywhere, {"I'm "}crazy about games since my first time with Nintendo Entertainment System and Marios Bros 3 (aka: best Mario game ever).
       </p>
     </div>
   )

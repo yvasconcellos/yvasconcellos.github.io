@@ -11,9 +11,17 @@ function Footer() {
     w-1/3
     left-0
     flex
+    flex-col
     p-2
-    justify-center"
+    items-center"
     >
+      <p
+      className='text-white'
+      >{`Let's work together!`}</p>
+      <div
+      className='flex'
+      >
+
       <a 
       className='social-buttons'
       href="https://github.com/yvasconcellos" target="_blank" rel="noreferrer">
@@ -22,10 +30,11 @@ function Footer() {
 
       <a 
         className='social-buttons'
-      href="https://www.linkedin.com/in/yvasconcellos/" target="_blank" rel="noreferrer">
+        href="https://www.linkedin.com/in/yvasconcellos/" target="_blank" rel="noreferrer">
         <img src={ linkedin } alt="linkedin" className="w-8 m-1" />
 
       </a>
+        </div>
     </footer>
   );
 }

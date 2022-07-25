@@ -12,7 +12,7 @@ function SideApresentation() {
           text-5xl
           text-apresentation
           ">Hello, <br />
-          i'm Yuri Vasconcellos <br /> 
+          {"i'm "}Yuri Vasconcellos <br /> 
           and this is my portfolio!</p>
         </div>
       </div>
