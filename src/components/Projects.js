@@ -44,13 +44,6 @@ function Projects() {
         <SwiperSlide>
           <ProjectWallet />
         </SwiperSlide>
-        <SwiperSlide>
-          <ProjectWallet />
-        </SwiperSlide>
-        <SwiperSlide>
-          <ProjectWallet />
-        </SwiperSlide>
-   
       </Swiper>
     </div>
   )

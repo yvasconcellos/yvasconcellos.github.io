@@ -1,11 +1,11 @@
 import React from "react";
-import htmllogo from '../../images/htmllogo.png'
-import jestlogo from '../../images/jest.png'
-import csslogo from '../../images/csslogo.png'
-import jslogo from '../../images/jslogo.png'
-import reactlogo from '../../images/reactlogo.png'
-import reduxlogo from '../../images/redux.png'
-import tailwindlogo from '../../images/tailwind.png'
+import htmllogo from '../images/htmllogo.png'
+import jestlogo from '../images/jest.png'
+import csslogo from '../images/csslogo.png'
+import jslogo from '../images/jslogo.png'
+import reactlogo from '../images/reactlogo.png'
+import reduxlogo from '../images/redux.png'
+import tailwindlogo from '../images/tailwind.png'
 import { useInView } from "react-intersection-observer";
 
 

@@ -1,5 +1,5 @@
 import React from "react";
-import Footer from '../Footer'
+import Footer from './Footer'
 
 function SideApresentation() {
 
@@ -11,8 +11,8 @@ function SideApresentation() {
           text-slate-100
           text-5xl
           text-apresentation
-          ">Hello, {<br />}
-          i'm Yuri Vasconcellos {<br />} 
+          ">Hello, <br />
+          i'm Yuri Vasconcellos <br /> 
           and this is my portfolio!</p>
         </div>
       </div>
