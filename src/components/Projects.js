@@ -8,6 +8,7 @@ import "swiper/css/effect-cards";
 
 import "./styles.css";
 import { useInView } from "react-intersection-observer";
+import ProjectTrivia from "./ProjectTrivia";
 
 function Projects() {
 
@@ -43,6 +44,8 @@ function Projects() {
       >
         <SwiperSlide>
           <ProjectWallet />
+        </SwiperSlide><SwiperSlide>
+          <ProjectTrivia />
         </SwiperSlide>
       </Swiper>
     </div>
