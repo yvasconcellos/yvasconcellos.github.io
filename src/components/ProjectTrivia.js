@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import walletImg from '../images/capaWallet.png'
+import triviaImg from '../images/trivia.png'
 
-function ProjectWallet() {
+function ProjectTrivia() {
   const [isHovering, setIsHovering] = useState(false);
 
   const handleMouseOver = () => {
@@ -14,11 +14,11 @@ function ProjectWallet() {
   return(
     <div className="flex flex-col items-center static" 
       onMouseOver={handleMouseOver} onMouseOut={handleMouseOut}>
-      <a href="https://hylian-wallet.vercel.app/"
+      <a href="https://trivia-time-tau.vercel.app/"
       target='_blank'
       rel="noreferrer"
       >
-      <img  src={walletImg} alt='Wallet' />
+      <img  src={triviaImg} alt='Trivia' />
       
       {isHovering && 
         <p className='italic
@@ -28,7 +28,7 @@ function ProjectWallet() {
         bottom-8
         bg-slate-600/50
         '>
-            A The Legend of Zelda thematic currency exchange management wallet.
+            A Trivia App Game made with React, Redux, Api.
         </p>
       }
       </a>
@@ -36,4 +36,4 @@ function ProjectWallet() {
   )
 }
 
-export default ProjectWallet
+export default ProjectTrivia
