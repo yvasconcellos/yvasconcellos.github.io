@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70f63102.css",
-    "main.js": "/static/js/main.08af3d36.js",
+    "main.css": "/static/css/main.6502cd37.css",
+    "main.js": "/static/js/main.f3ecbeeb.js",
     "static/js/787.b8d5ff26.chunk.js": "/static/js/787.b8d5ff26.chunk.js",
     "static/media/capaWallet.png": "/static/media/capaWallet.c8f2b53e4f7f12d95e02.png",
     "static/media/reactlogo.png": "/static/media/reactlogo.beb0d27bf5fb16de35f8.png",
@@ -9,15 +9,16 @@
     "static/media/csslogo.png": "/static/media/csslogo.a2c1a27b7f9552f65a33.png",
     "static/media/tailwind.png": "/static/media/tailwind.6b02d3c7dc303e2ef549.png",
     "static/media/redux.png": "/static/media/redux.7cd4a2ea86bc3945377c.png",
+    "static/media/trivia.png": "/static/media/trivia.a38d19d1d228f5476050.png",
     "static/media/htmllogo.png": "/static/media/htmllogo.b779eae0db5f1345e0f7.png",
     "static/media/jslogo.png": "/static/media/jslogo.0f803b2a801fb5b25d62.png",
     "index.html": "/index.html",
-    "main.70f63102.css.map": "/static/css/main.70f63102.css.map",
-    "main.08af3d36.js.map": "/static/js/main.08af3d36.js.map",
+    "main.6502cd37.css.map": "/static/css/main.6502cd37.css.map",
+    "main.f3ecbeeb.js.map": "/static/js/main.f3ecbeeb.js.map",
     "787.b8d5ff26.chunk.js.map": "/static/js/787.b8d5ff26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70f63102.css",
-    "static/js/main.08af3d36.js"
+    "static/css/main.6502cd37.css",
+    "static/js/main.f3ecbeeb.js"
   ]
 }
